@@ -1,0 +1,10 @@
+C:\Users\unium\source\repos\generatePaint\generatePaint\bin\Debug\generatePaint.exe.config
+C:\Users\unium\source\repos\generatePaint\generatePaint\bin\Debug\generatePaint.exe
+C:\Users\unium\source\repos\generatePaint\generatePaint\bin\Debug\generatePaint.pdb
+C:\Users\unium\source\repos\generatePaint\generatePaint\obj\Debug\generatePaint.csprojAssemblyReference.cache
+C:\Users\unium\source\repos\generatePaint\generatePaint\obj\Debug\generatePaint.Form1.resources
+C:\Users\unium\source\repos\generatePaint\generatePaint\obj\Debug\generatePaint.Properties.Resources.resources
+C:\Users\unium\source\repos\generatePaint\generatePaint\obj\Debug\generatePaint.csproj.GenerateResource.cache
+C:\Users\unium\source\repos\generatePaint\generatePaint\obj\Debug\generatePaint.csproj.CoreCompileInputs.cache
+C:\Users\unium\source\repos\generatePaint\generatePaint\obj\Debug\generatePaint.exe
+C:\Users\unium\source\repos\generatePaint\generatePaint\obj\Debug\generatePaint.pdb
